@@ -1,5 +1,13 @@
 # OnlineShop
 <br>PHP-based online shop website. It does not use any CSS as I used it purely for PHP training.
+<br><b>Adding new user:</b>
+<br>![image](https://user-images.githubusercontent.com/77579503/145739199-710e2beb-7c45-4682-9241-25e34535271d.png)
+<br>![image](https://user-images.githubusercontent.com/77579503/145739273-3172b4a1-e7bc-4552-b352-55a23af8936b.png)
+<br>
+<br>
+<br><b>Logging in:</b>
+<br>![image](https://user-images.githubusercontent.com/77579503/145739254-b4ab7b9e-d97f-424d-82d6-2c1a4b81a625.png)
+<br>![image](https://user-images.githubusercontent.com/77579503/145739289-8d7b5624-f0ec-4c09-9852-be39e9e6469c.png)
 <br>
 <br>
 <br><b>Main form:</b>

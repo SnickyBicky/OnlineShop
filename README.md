@@ -1,5 +1,5 @@
 # OnlineShop
-<br>A simple PHP-based online shop website. It does not use any CSS as I used it purely for PHP training.
+<br>PHP-based online shop website. It does not use any CSS as I used it purely for PHP training.
 <br>
 <br>
 <br><b>Main form:</b>

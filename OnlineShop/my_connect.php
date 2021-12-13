@@ -2,9 +2,9 @@
 
 //set connection variables
 $host='localhost';
-$username='DW202588';
-$password='DW202588';
-$database_name='DW202588';
+$username='root';
+$password='password';
+$database_name='databasename';
 
 //connection to server & database
 $connection = mysqli_connect($host, $username, $password,$database_name) ;
